@@ -31,7 +31,7 @@ jak na przyk³ad foldl i foldr, a tak¿e u¿ycia nieskoñczonych list.
 
 %build
 %{__perl} Makefile.PL \
-	INSTALLDIRS=vendor 
+	INSTALLDIRS=vendor
 %{__make}
 
 %install
