@@ -5,7 +5,7 @@ Summary:	Language::Functional - makes Perl slightly more functional
 Summary(pl):	Language::Functional - uczynienie Perla nieco bardziej funkcyjnym
 Name:		perl-Language-Functional
 Version:	0.03
-Release:	2
+Release:	3
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
