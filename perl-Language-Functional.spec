@@ -1,8 +1,8 @@
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	Language
 %define	pnam	Functional
-Summary:	Language::Functional perl module - makes Perl slightly more functional
-Summary(pl):	Modu³ perla Language::Functinal - czyni±cy Perla nieco bardziej funkcyjnym
+Summary:	Language::Functional - makes Perl slightly more functional
+Summary(pl):	Language::Functional - uczynienie Perla nieco bardziej funkcyjnym
 Name:		perl-Language-Functional
 Version:	0.03
 Release:	2
