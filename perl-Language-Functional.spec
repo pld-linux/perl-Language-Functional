@@ -5,7 +5,7 @@ Summary:	Language::Functional perl module - makes Perl slightly more functional
 Summary(pl):	Modu³ perla Language::Functinal - czyni±cy Perla nieco bardziej funkcyjnym
 Name:		perl-Language-Functional
 Version:	0.03
-Release:	1
+Release:	2
 License:	Artistic or GPL
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
