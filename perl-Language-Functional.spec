@@ -2,7 +2,7 @@
 %define		pdir	Language
 %define		pnam	Functional
 Summary:	Language::Functional - makes Perl slightly more functional
-Summary(pl):	Language::Functional - uczynienie Perla nieco bardziej funkcyjnym
+Summary(pl.UTF-8):   Language::Functional - uczynienie Perla nieco bardziej funkcyjnym
 Name:		perl-Language-Functional
 Version:	0.03
 Release:	3
@@ -22,10 +22,10 @@ and `grep'. The purpose of this module is to add other functional-like
 functions to Perl, such as foldl and foldr, as well as the use of
 infinite lists.
 
-%description -l pl
-Perl ma zawiera trochê funkcji w stylu funkcyjnym, takich jak map czy
-grep. Celem tego modu³u jest dodanie wiêkszej liczby takich funkcji,
-jak na przyk³ad foldl i foldr, a tak¿e u¿ycia nieskoñczonych list.
+%description -l pl.UTF-8
+Perl ma zawiera trochÄ™ funkcji w stylu funkcyjnym, takich jak map czy
+grep. Celem tego moduÅ‚u jest dodanie wiÄ™kszej liczby takich funkcji,
+jak na przykÅ‚ad foldl i foldr, a takÅ¼e uÅ¼ycia nieskoÅ„czonych list.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
