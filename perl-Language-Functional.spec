@@ -2,7 +2,7 @@
 %define		pdir	Language
 %define		pnam	Functional
 Summary:	Language::Functional - makes Perl slightly more functional
-Summary(pl.UTF-8):   Language::Functional - uczynienie Perla nieco bardziej funkcyjnym
+Summary(pl.UTF-8):	Language::Functional - uczynienie Perla nieco bardziej funkcyjnym
 Name:		perl-Language-Functional
 Version:	0.03
 Release:	3
