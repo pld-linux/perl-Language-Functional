@@ -4,13 +4,13 @@
 Summary:	Language::Functional - makes Perl slightly more functional
 Summary(pl.UTF-8):	Language::Functional - uczynienie Perla nieco bardziej funkcyjnym
 Name:		perl-Language-Functional
-Version:	0.03
-Release:	4
+Version:	0.04
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	0996f9e576571a9624f4dd110bae7904
+# Source0-md5:	6eb8a6ae99971ad3c8dfa3bd88792710
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
@@ -46,6 +46,6 @@ rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(644,root,root,755)
-%doc Changes README
+%doc README
 %{perl_vendorlib}/Language/Functional.pm
 %{_mandir}/man3/*
