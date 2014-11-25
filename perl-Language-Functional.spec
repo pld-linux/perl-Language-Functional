@@ -1,6 +1,6 @@
-%include	/usr/lib/rpm/macros.perl
 %define		pdir	Language
 %define		pnam	Functional
+%include	/usr/lib/rpm/macros.perl
 Summary:	Language::Functional - makes Perl slightly more functional
 Summary(pl.UTF-8):	Language::Functional - uczynienie Perla nieco bardziej funkcyjnym
 Name:		perl-Language-Functional
@@ -11,6 +11,7 @@ License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	59c81abfd14c940f47115f19dc6288c2
+URL:		http://search.cpan.org/dist/Language-Functional/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
