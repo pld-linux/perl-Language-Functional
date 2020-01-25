@@ -1,6 +1,5 @@
 %define		pdir	Language
 %define		pnam	Functional
-%include	/usr/lib/rpm/macros.perl
 Summary:	Language::Functional - makes Perl slightly more functional
 Summary(pl.UTF-8):	Language::Functional - uczynienie Perla nieco bardziej funkcyjnym
 Name:		perl-Language-Functional
